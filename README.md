@@ -5,6 +5,22 @@ Currently on the lookout for exciting summer 2024 internships, I bring to the ta
 
 I'm super eager to join innovative teams, dive into real-world scenarios, and let my skills shine. Let's connect and create some tech wonders together! 🚀✨
 
+Here's a list of the relevant courses I am currently taken or have already taken in my acadmeic journey at Waterloo:
+
+Currently taking:
+ECE 250 - Data Structures and Algorithms
+ECE 222 - Digital Computers
+ECE 204 - Numerical Methods
+
+Courses Already Taken:
+
+ECE 150 - Fundamentals of Programming
+ECE 124 - Digital Circuits and Systems
+ECE 108 - Discrete Mathematics and Logic
+MATH 119 - Calculus 2 for Engineering
+MATH 117 - Calculus 1 for Engineering
+MATH 115 - Linear Algebra for Engineering
+
 
 
 <!--
