@@ -8,13 +8,13 @@ I'm super eager to join innovative teams, dive into real-world scenarios, and le
 Here's a list of the relevant courses I am currently taken or have already taken in my acadmeic journey at Waterloo:
 
 Currently taking:
-- ECE 250 - Data Structures and Algorithms
-- ECE 222 - Digital Computers
-- ECE 204 - Numerical Methods
+- ECE 250 - Data Structures and Algorithms (C++)
+- ECE 222 - Digital Computers (ARM Assembly)
+- ECE 204 - Numerical Methods (Matlab, C++)
 
 Courses Already Taken:
 
-- ECE 150 - Fundamentals of Programming
+- ECE 150 - Fundamentals of Programming (C++)
 - ECE 124 - Digital Circuits and Systems
 - ECE 108 - Discrete Mathematics and Logic
 - MATH 119 - Calculus 2 for Engineering
