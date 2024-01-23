@@ -8,8 +8,7 @@ I'm super eager to join innovative teams, dive into real-world scenarios, and le
 Technologies I have used:
 - Programming Languages:
 
- ![image]({https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white})
-
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
 
