@@ -13,7 +13,7 @@ Programming Languages and Technologies:
 
 
 
-Here's a list of the relevant courses I am currently taken or have already taken in my acadmeic journey at Waterloo:
+Here's a list of the relevant courses I am currently taking or have already taken in my acadmeic journey at Waterloo:
 
 Currently taking:
 - ECE 250 - Data Structures and Algorithms (C++)
