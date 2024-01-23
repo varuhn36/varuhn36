@@ -7,17 +7,9 @@ I'm super eager to join innovative teams, dive into real-world scenarios, and le
 
 Technologies I have used:
 - Programming Languages:
+  
  ![image]({https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white})
-<img src="{}" />
-<img src="{https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white}" />
-<img src="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}" />
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
-<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
-<img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />
-<img src="{ttps://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white}" />
-<img src="{ttps://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white}" />
+
 
 
 
