@@ -1,7 +1,7 @@
 
-Hey there! 👋 I'm Varuhn, a spirited 2A computer engineering student at the University of Waterloo. I'm on a mission to weave together the worlds of hardware and software development to craft solutions that not only simplify but also add that extra dash of awesomeness to our daily lives.
+Hey there! 👋 I'm Varuhn, a spirited 2B computer engineering student at the University of Waterloo. I'm on a mission to weave together the worlds of hardware and software development to craft solutions that not only simplify but also add that extra dash of awesomeness to our daily lives.
 
-Currently on the lookout for exciting summer 2024 internships, I bring to the table a delightful mix of technical prowess and a sincere dedication to using technology for some serious positive vibes. My passion doesn't stop at embedded systems; I'm also keen on whipping up some magic in the software development realm for applications that make a real impact.
+I bring to the table a delightful mix of technical prowess and a sincere dedication to using technology for some serious positive vibes. My passion doesn't stop at embedded systems; I'm also keen on whipping up some magic in the software development realm for applications that make a real impact.
 
 I'm super eager to join innovative teams, dive into real-world scenarios, and let my skills shine. Let's connect and create some tech wonders together! 🚀✨
 
