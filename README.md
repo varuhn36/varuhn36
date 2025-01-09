@@ -13,15 +13,16 @@ Programming Languages and Technologies:
 
 
 
-Here's a list of the relevant courses I am currently taking or have already taken in my acadmeic journey at Waterloo:
+Here's a list of the relevant courses I am currently taking or have already taken in my academic journey at Waterloo:
 
-Currently taking:
+Currently taking: On co-op as a SWE @ SPS Commerce
+
+Courses Already Taken:
+- ECE 252 - Systems Programming and Concurrency (C)
+- ECE 224 - Embedded Microprocessor Systems (C)
 - ECE 250 - Data Structures and Algorithms (C++)
 - ECE 222 - Digital Computers (ARM Assembly)
 - ECE 204 - Numerical Methods (Matlab, C++)
-
-Courses Already Taken:
-
 - ECE 150 - Fundamentals of Programming (C++)
 - ECE 124 - Digital Circuits and Systems (VHDL)
 - ECE 108 - Discrete Mathematics and Logic
