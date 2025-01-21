@@ -15,7 +15,7 @@ Programming Languages and Technologies:
 
 Here's a list of the relevant courses I am currently taking or have already taken in my academic journey at Waterloo:
 
-Currently taking: On co-op as a SWE @ SPS Commerce
+Currently on co-op as a SWE @ SPS Commerce
 
 Courses Already Taken:
 - ECE 252 - Systems Programming and Concurrency (C)
