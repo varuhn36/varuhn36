@@ -25,10 +25,6 @@ Courses Already Taken:
 - ECE 204 - Numerical Methods (Matlab, C++)
 - ECE 150 - Fundamentals of Programming (C++)
 - ECE 124 - Digital Circuits and Systems (VHDL)
-- ECE 108 - Discrete Mathematics and Logic
-- MATH 119 - Calculus 2 for Engineering
-- MATH 117 - Calculus 1 for Engineering
-- MATH 115 - Linear Algebra for Engineering
 
 
 
